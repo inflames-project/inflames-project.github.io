@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: INFLAMES
+author: Gerbrand Koren
+email: g.b.koren@uu.nl
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  In the INFLAMES project we study feedbacks between fires, air quality, ecosystems and climate. 
+  The project is a collaboration between Wageningen University, VU University Amsterdam, KNMI, SRON, 
+  Leiden University, Utrecht University and Twente University.
 
 # social links
 twitter_username: jekyllrb
