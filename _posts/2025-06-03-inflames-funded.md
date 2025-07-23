@@ -16,4 +16,4 @@ Co-applicants: Dr M. de Graaf (KNMI), Dr G.B. Koren (Utrecht University), Dr O.P
 
 An interview with me about INFLAMES can be found on the NSO-website: https://www.spaceoffice.nl/nl/nieuws/1080/-als-wetenschappers-willen-we-de-gegevens-van-satellietinstrumenten-maximaal-benutten-.html
 
-Copied from https://kfolkertboersma.wordpress.com/
+Copied from [https://kfolkertboersma.wordpress.com/](https://kfolkertboersma.wordpress.com/){:target="_blank"}
