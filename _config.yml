@@ -3,18 +3,18 @@ author: Gerbrand Koren
 email: g.b.koren@uu.nl
 description: > # this means to ignore newlines until "twitter_username:"
   In the INFLAMES project we study feedbacks between fires, air quality, ecosystems and climate. 
-  The project is a collaboration between Wageningen University, VU University Amsterdam, KNMI, SRON, 
-  Leiden University, Utrecht University and University of Twente.
+#  The project is a collaboration between Wageningen University, VU University Amsterdam, KNMI, SRON, 
+#  Leiden University, Utrecht University and University of Twente.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+# twitter_username: jekyllrb
+github_username:  inflames-project
+# rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
