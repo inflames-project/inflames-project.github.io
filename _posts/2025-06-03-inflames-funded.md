@@ -13,7 +13,7 @@ Wildfires impact ecosystems, air quality, and the climate, with human activities
 [https://www.nwo.nl/en/news/almost-18-million-awarded-for-controlling-wildfires](https://www.nwo.nl/en/news/almost-18-million-awarded-for-controlling-wildfires){:target="_blank"}
 
 **Main applicant:** Dr Folkert Boersma (Wageningen University and Research)
-**Co-applicants:** Dr M. de Graaf (KNMI), Dr G.B. Koren (Utrecht University), Dr O.P. Hasekamp (SRON), dr. N.A.J. Schutgens (VU Amsterdam), dr. M.J.M. Penning de Vries (University of Twente), prof. dr. P.M. van Bodegom (Leiden University)
+**Co-applicants:** Dr M. de Graaf (KNMI), Dr G.B. Koren (Utrecht University), Dr O.P. Hasekamp (SRON), Dr N.A.J. Schutgens (VU Amsterdam), Dr M.J.M. Penning de Vries (University of Twente), Prof. Dr P.M. van Bodegom (Leiden University)
 
 An interview with me about INFLAMES can be found on the NSO-website: [https://www.spaceoffice.nl/nl/nieuws/1080/-als-wetenschappers-willen-we-de-gegevens-van-satellietinstrumenten-maximaal-benutten-.html](https://www.spaceoffice.nl/nl/nieuws/1080/-als-wetenschappers-willen-we-de-gegevens-van-satellietinstrumenten-maximaal-benutten-.html){:target="_blank"}
 
