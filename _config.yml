@@ -8,13 +8,13 @@ description: > # this means to ignore newlines until "twitter_username:"
 
 # social links
 # twitter_username: jekyllrb
-github_username:  inflames-project
+# github_username:  inflames-project
 # rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: jekyll
+# linkedin_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
@@ -45,5 +45,5 @@ header_pages:
 theme: minima
 
 plugins:
- - jekyll-feed
+# - jekyll-feed
  - jekyll-seo-tag
