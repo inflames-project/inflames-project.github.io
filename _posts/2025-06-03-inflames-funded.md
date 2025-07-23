@@ -6,7 +6,9 @@ categories: news
 
 We recently heard from NWO that our Dutch consortium (Wageningen University, KNMI, SRON, University of Twente, Leiden University and Utrecht University) got funded for a 5-year project into better understanding wildfires using Dutch atmospheric satellite instruments.
 
-![INFLAMES flyer](https://github.com/inflames-project/inflames-project.github.io/blob/main/_posts/schermc2adafbeelding-2025-06-03-om-16.07.48-1.webp "INFLAMES flyer")
+<figure>
+  <img src="[pic_trulli.jpg](https://github.com/inflames-project/inflames-project.github.io/blob/main/_posts/schermc2adafbeelding-2025-06-03-om-16.07.48-1.webp)" alt="INFLAMES flyer" style="width:100%">
+</figure>
 
 Wildfires impact ecosystems, air quality, and the climate, with human activities and climate change making them more intense. The INFLAMES project takes an interdisciplinary approach, combining Dutch atmospheric satellite data, computer models, and field research to understand how wildfires evolve and affect the environment around the world. Experts from climate science, ecology, and social sciences work together to study how fire emissions influence air pollution, vegetation, and future climate patterns. By integrating these perspectives, INFLAMES aims to improve wildfire predictions and inform strategies to manage their risks in a changing world.
 
