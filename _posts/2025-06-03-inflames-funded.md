@@ -4,6 +4,8 @@ title: "Proposal not up in flames: INFLAMES funded"
 categories: news
 ---
 
+*Written by Dr Folkert Boersma*
+
 We recently heard from NWO that our Dutch consortium (Wageningen University, KNMI, SRON, University of Twente, Leiden University and Utrecht University) got funded for a 5-year project into better understanding wildfires using Dutch atmospheric satellite instruments.
 
 ![INFLAMES flyer](https://raw.githubusercontent.com/inflames-project/inflames-project.github.io/refs/heads/main/_posts/inflames_flyer.png)
