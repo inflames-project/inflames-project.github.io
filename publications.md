@@ -15,7 +15,7 @@ Publications from INFLAMES will appear in due time. Now we list some of the pape
 First results and validation. Geophys. Res. Lett., 52, e2024GL113525. [doi:10.1029/2024GL113525](https://doi.org/10.1029/2024GL113525)
 
 - Grootemaat, S., Wright, I. J., van Bodegom, P. M., & Cornelissen, J. H. (2017). Scaling up flammability from individual
-leaves to fuel beds. Oikos, 126(10), 1428-1438, [doi:10.1111/oik.03886](https://doi.org/10.1111/oik.03886).
+leaves to fuel beds. Oikos, 126(10), 1428-1438, [doi:10.1111/oik.03886](https://doi.org/10.1111/oik.03886)
 
 - Penning de Vries, M. J. M., Beirle, S., Hörmann, C., Kaiser, J. W., Stammes, P., Tilstra, L. G., Tuinder, O. N. E., & Wagner,
 T. (2015). A global aerosol classification algorithm incorporating multiple satellite data sets of aerosol and trace gas
