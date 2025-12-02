@@ -9,7 +9,7 @@ description:
 ## MSc-students
 
 <figure>
-<img src="photos/dimitra.jpg" style="width:100">
+<img src="photos/dimitra.jpg" width="100">
 </figure>
 
 Dimitra Kollia is pursuing her MSc in Earth and Environment at Wageningen University, with a specialization in Meteorology and Air Quality. In her thesis research, supervised by Dr. Folkert Boersma and Prof. Guido van der Werf, she investigates how satellite observations from TROPOMI can be used to improve fire emission factors of trace gases across different biomes. By comparing satellite-derived emission ratios with bottom-up inventories like GFED, her work aims to reduce uncertainties in global fire emission estimates and better quantify the atmospheric impacts of wildfires.
@@ -17,7 +17,7 @@ Dimitra Kollia is pursuing her MSc in Earth and Environment at Wageningen Univer
 ## PhD-students
 
 <figure>
-<img src="photos/annabel.jpg" style="width:100">
+<img src="photos/annabel.jpg" width="100">
 </figure>
 
 Annabel Chantry is pursuing her PhD at the Royal Netherlands Meteorological Institute. Her PhD research, supervised by Dr. Martin de Graaf and Dr. Folkert Boersma, will focus on observations of smoke aerosols by TROPOMI, EarthCARE and SPEXone. By combining these instruments she aims to better characterize wildfire plumes and measure their aerosol direct radiative effect. Previously she studied Physics at the University of Oxford and worked at the European Space Agency on EarthCARE level 1 processing.
@@ -25,7 +25,7 @@ Annabel Chantry is pursuing her PhD at the Royal Netherlands Meteorological Inst
 ## Staff
 
 <figure>
-<img src="photos/folkert.jpg" style="width:100">
+<img src="photos/folkert.jpg" width="100">
 </figure>
  
 Folkert Boersma (Project Lead, Wageningen University). Folkert Boersma is an Associate Professor at Wageningen University and a researcher at KNMI, specializing in satellite remote sensing of atmospheric composition. He has extensive experience in leading large research projects, through developing the OMI and TROPOMI NO₂ algorithms. He is using satellite observations of NO₂, HCHO, Solar-Induced Fluorescence (SIF), and aerosols to analyse fire plumes and quantify emissions, advancing our understanding of biomass burning impacts. His expertise bridges satellite data, atmospheric chemistry, and climate research, contributing to improved air quality and climate monitoring
