@@ -9,7 +9,7 @@ description:
 ## MSc-students
 
 <figure>
-<img src="photos/dimitra.jpg" width="100">
+<img src="photos/dimitra.jpg" width="200">
 </figure>
 
 Dimitra Kollia is pursuing her MSc in Earth and Environment at Wageningen University, with a specialization in Meteorology and Air Quality. In her thesis research, supervised by Dr. Folkert Boersma and Prof. Guido van der Werf, she investigates how satellite observations from TROPOMI can be used to improve fire emission factors of trace gases across different biomes. By comparing satellite-derived emission ratios with bottom-up inventories like GFED, her work aims to reduce uncertainties in global fire emission estimates and better quantify the atmospheric impacts of wildfires.
@@ -17,7 +17,7 @@ Dimitra Kollia is pursuing her MSc in Earth and Environment at Wageningen Univer
 ## PhD-students
 
 <figure>
-<img src="photos/annabel.jpg" width="100">
+<img src="photos/annabel.jpg" width="150">
 </figure>
 
 Annabel Chantry is pursuing her PhD at the Royal Netherlands Meteorological Institute. Her PhD research, supervised by Dr. Martin de Graaf and Dr. Folkert Boersma, will focus on observations of smoke aerosols by TROPOMI, EarthCARE and SPEXone. By combining these instruments she aims to better characterize wildfire plumes and measure their aerosol direct radiative effect. Previously she studied Physics at the University of Oxford and worked at the European Space Agency on EarthCARE level 1 processing.
