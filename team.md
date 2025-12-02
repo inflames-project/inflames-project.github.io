@@ -25,19 +25,19 @@ Annabel Chantry is pursuing her PhD at the Royal Netherlands Meteorological Inst
 ## Staff
 
 <figure>
-<img src="photos/folkert.jpg" width="200">
+<img src="photos/folkert.png" width="200">
 </figure>
  
 Folkert Boersma (Project Lead, Wageningen University). Folkert Boersma is an Associate Professor at Wageningen University and a researcher at KNMI, specializing in satellite remote sensing of atmospheric composition. He has extensive experience in leading large research projects, through developing the OMI and TROPOMI NO₂ algorithms. He is using satellite observations of NO₂, HCHO, Solar-Induced Fluorescence (SIF), and aerosols to analyse fire plumes and quantify emissions, advancing our understanding of biomass burning impacts. His expertise bridges satellite data, atmospheric chemistry, and climate research, contributing to improved air quality and climate monitoring
 
 <figure>
-<img src="photos/martin.jpg" width="200">
+<img src="photos/martin.jpg" width="300">
 </figure>
 
 Martin de Graaf (Lead WP2, KNMI). Martin de Graaf is specialising on the use of (hyper)spectral satellite remote sensing applications for the retrieval of aerosol properties and radiative effects in relation with clouds, from instruments like GOME, SCIAMACHY, OMI, MODIS, SEVIRI and TROPOMI. He led the Dutch contribution during two field campaigns to Ascension Island (2016-2017), combining satellite, in-situ aircraft, and ground-based lidar observations. He is part of the TROPOMI L2 team, the EarthCARE Cal/Val team, and scientific lead of the aerosol product development for the Sentinel-4 (S4) and Sentinel-5 (S5) satellite series. He leads a collaborative project with African partners to use TROPOMI data for urban and rural air quality monitoring in Zimbabwe. 
  
 <figure>
-<img src="photos/otto.jpg" width="200">
+<img src="photos/otto.jpg" width="300">
 </figure>
 
 Otto Hasekamp (Lead WP4, SRON). Otto Hasekamp is senior scientist in the Earth Science Group of SRON. He specializes in radiative transfer modeling and inversion techniques for remote sensing of aerosols, cloud and atmospheric trace gases. He leads projects on aerosol retrieval from Multi-Angle Polarimetric (MAP) measurements, (POLDER, SPEXone, and airborne instrumentation), retrieval of cloud micro- and macro-physical properties from MAP and spectroscopic measurements, and the use of aerosol and cloud data to quantify the direct and indirect effect of aerosol on climate. He is PI for the SPEXone instrument on the NASA PACE mission and is a member of the ESA/EUMETSAT Science Advisory Group (SAG) of the 3MI instrument.
