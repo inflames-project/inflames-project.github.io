@@ -22,7 +22,7 @@ description:
 <p>09:30-09:40 Plans/tools for INFLAMES Air Quality research (WP2): LOTOS-Euros &ndash; Nick Schutgens (VU) + Martijn Schaap (TNO)</p>
 <p>09:40-09:50 Plans/tools for INFLAMES Climate Change research (WP3 + WP4): SpexONE, ECHAM-HAM and PPE&rsquo;s &ndash; Otto Hasekamp (SRON) and Martin de Graaf (KNMI)</p>
 <p>09:50-10:00 Plans/tools for INFLAMES human dimension research (WP6) &ndash; Marloes Penning de Vries (U Twente) </p>
-<p>10:00-10:10 Planning/tools for INFLAMES ecosystem research (WP5) &ndash; Peter van Bodegom (U Leiden) and Gebrand Koren (UU)</p>
+<p>10:00-10:10 Planning/tools for INFLAMES ecosystem research (WP5) &ndash; Peter van Bodegom (U Leiden) and Gerbrand Koren (UU)</p>
 <p>10:10-10:25 Discussion</p>
 <p>&nbsp;</p>
 
