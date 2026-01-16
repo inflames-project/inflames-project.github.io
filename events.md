@@ -6,8 +6,7 @@ description:
 
 # Kick-off meeting
 
-### Meeting logistics
-
+<p><strong>Meeting logistics</strong></p>
 <p>When: Wednesday 21 January 2025</p>
 <p>Time: 09:00 -13:00 hrs</p>
 <p>Where: Lumen building (<a href="https://www.wur.nl/en/location/lumen-building-100">https://www.wur.nl/en/location/lumen-building-100</a>)</p>
@@ -18,8 +17,6 @@ description:
 <p>Purpose: Official start of the NWO/NSO-program <a href="https://inflames-project.github.io/">INFLAMES</a>, inform stakeholders, energize participants and interested 3rd parties.</p>
 <p>&nbsp;</p>
 
-### Meeting schedule
-
 <p><strong>09:15 PROJECT INTRODUCTION</strong></p>
 <p>09:15-09:30  Welcome + overview INFLAMES-project and team &ndash; Folkert Boersma (WUR): scientific vision, research questions, milestones; WP and deliverable responsibilities, community engagement</p>
 <p>09:30-09:40 Plans/tools for INFLAMES Air Quality research (WP2): LOTOS-Euros &ndash; Nick Schutgens (VU) + Martijn Schaap (TNO)</p>
@@ -28,6 +25,7 @@ description:
 <p>10:00-10:10 Planning/tools for INFLAMES ecosystem research (WP5) &ndash; Peter van Bodegom (U Leiden) and Gebrand Koren (UU)</p>
 <p>10:10-10:25 Discussion</p>
 <p>&nbsp;</p>
+
 <p><strong>10:45  SCIENCE TALKS</strong></p>
 <p><em>Chair &ndash; Marloes Penning de Vries</em> (10 minute presentations + 2 minutes for questions)</p>
 <p>10:45-10:57 Fire emission estimates with TROPOMI &ndash; Dimitra Kollia (WUR)</p>
