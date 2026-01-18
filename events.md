@@ -29,9 +29,9 @@ description:
 <p><strong>10:45  SCIENCE TALKS</strong></p>
 <p><em>Chair &ndash; Marloes Penning de Vries</em> (10 minute presentations + 2 minutes for questions)</p>
 <p>10:45-10:57 Fire emission estimates with TROPOMI &ndash; Dimitra Kollia (WUR)</p>
-<p>10:57-11:09 Observations of smoke aerosols and heating rates from EarthCARE, TROPOMI, and SPEXOne - Annabel Chantry (KNMI)</p>
-<p>11:09-11:21 MicroHH fire plume modelling with MicroHH &ndash; Chiel van Heerwaarden (WUR)</p>
-<p>11:21-11:33 What INFLAMES should learn from ESA Sense4Fire &ndash; Jos de Laat (KNMI)</p>
+<p>10:57-11:09 What INFLAMES should learn from ESA Sense4Fire &ndash; Jos de Laat (KNMI)</p>
+<p>11:09-11:21 Observations of smoke aerosols and heating rates from EarthCARE, TROPOMI, and SPEXOne - Annabel Chantry (KNMI)</p>
+<p>11:21-11:33 MicroHH fire plume modelling with MicroHH &ndash; Chiel van Heerwaarden (WUR)</p>
 <p>11:33-11:45 Ozone production and brown carbon in fire plumes &ndash; Colette Heald (ETH)</p>
 <p>11:45-11:57 What NIPV could learn from INFLAMES &ndash; Jelmer Dam (NIPV)</p>
 <p>11:57-12:09 Climate impacts from North American boreal forest fires - Sander Veraverbeke (VU Amsterdam)</p>
