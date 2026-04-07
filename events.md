@@ -6,14 +6,10 @@ description:
 
 # Kick-off meeting
 
-<p><strong>Meeting logistics</strong></p>
+<p><strong>Meeting notes</strong></p>
 <p>When: Wednesday 21 January 2025</p>
-<p>Time: 09:00 -13:00 hrs</p>
-<p>Where: Lumen building (<a href="https://www.wur.nl/en/location/lumen-building-100">https://www.wur.nl/en/location/lumen-building-100</a>)</p>
-<p>Room Gaia 1, Wageningen University (Bus stop: Campus/Atlas)</p>
-<p>Droevendaalsesteeg 3</p>
-<p>6706 GN Wageningen</p>
-<p>Online: <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmIzY2RjMTAtOWFmYS00MGY2LWJjYzUtNjI3YzM0NjAyYTVj%40thread.v2/0?context=%7b%22Tid%22%3a%2227d137e5-761f-4dc1-af88-d26430abb18f%22%2c%22Oid%22%3a%2208761357-266f-4f8a-a716-a02df10a72c7%22%7d">MS Teams meeting link</a></p>
+<p>Where: Wageningen, Netherlands</p>
+<p>Online: <a href="https://inflames-project.github.io/pdfs/minutes_kick-off_inflames.pdf">Minutes</a></p>
 <p>Purpose: Official start of the NWO/NSO-program <a href="https://inflames-project.github.io/">INFLAMES</a>, inform stakeholders, energize participants and interested 3rd parties.</p>
 <p>&nbsp;</p>
 
