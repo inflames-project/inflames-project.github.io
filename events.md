@@ -9,7 +9,7 @@ description:
 <p><strong>Meeting notes</strong></p>
 <p>When: Wednesday 21 January 2025</p>
 <p>Where: Wageningen, Netherlands</p>
-<p>Online: <a href="https://inflames-project.github.io/pdfs/minutes_kick-off_inflames.pdf">Minutes</a></p>
+<p><a href="https://inflames-project.github.io/pdfs/minutes_kick-off_inflames.pdf">Minutes</a></p>
 <p>Purpose: Official start of the NWO/NSO-program <a href="https://inflames-project.github.io/">INFLAMES</a>, inform stakeholders, energize participants and interested 3rd parties.</p>
 <p>&nbsp;</p>
 
