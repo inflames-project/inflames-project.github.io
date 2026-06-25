@@ -22,13 +22,19 @@ Dimitra Kollia is pursuing her MSc in Earth and Environment at Wageningen Univer
 
 Annabel Chantry is pursuing her PhD at the Royal Netherlands Meteorological Institute. Her PhD research, supervised by Dr. Martin de Graaf and Dr. Folkert Boersma, will focus on observations of smoke aerosols by TROPOMI, EarthCARE and SPEXone. By combining these instruments she aims to better characterize wildfire plumes and measure their aerosol direct radiative effect. Previously she studied Physics at the University of Oxford and worked at the European Space Agency on EarthCARE level 1 processing.
 
+<figure>
+<img src="photos/manouk.jpeg" width="200">
+</figure>
+
+Manouk Geurts is pursuing her PhD at Wageningen University. Her research, supervised by Prof. Folkert Boersma and Dr. Chiel van Heerwaarden, focuses on enhancing fire emission characterization. By combining satellite observations by TROPOMI, VIIRS, and EarthCARE with high-resolution modelling in MicroHH, she will investigate plume injection height, chemical transformations in fire plumes, and emissions’ magnitude of notable fire events. This way her work aims to reduce uncertainties in estimates of wildfire emissions and improve understanding of atmospheric impacts of wildfires. 
+
 ## Staff
 
 <figure>
 <img src="photos/folkert.png" width="200">
 </figure>
  
-Folkert Boersma (Project Lead, Wageningen University). Folkert Boersma is an Associate Professor at Wageningen University and a researcher at KNMI, specializing in satellite remote sensing of atmospheric composition. He has extensive experience in leading large research projects, through developing the OMI and TROPOMI NO₂ algorithms. He is using satellite observations of NO₂, HCHO, Solar-Induced Fluorescence (SIF), and aerosols to analyse fire plumes and quantify emissions, advancing our understanding of biomass burning impacts. His expertise bridges satellite data, atmospheric chemistry, and climate research, contributing to improved air quality and climate monitoring
+Folkert Boersma (Project Lead, Wageningen University). Folkert Boersma is a Full Professor at Wageningen University and a researcher at KNMI, specializing in satellite remote sensing of atmospheric composition. He has extensive experience in leading large research projects, through developing the OMI and TROPOMI NO₂ algorithms. He is using satellite observations of NO₂, HCHO, Solar-Induced Fluorescence (SIF), and aerosols to analyse fire plumes and quantify emissions, advancing our understanding of biomass burning impacts. His expertise bridges satellite data, atmospheric chemistry, and climate research, contributing to improved air quality and climate monitoring
 
 <figure>
 <img src="photos/martin.jpg" width="300">
