@@ -28,6 +28,18 @@ Annabel Chantry is pursuing her PhD at the Royal Netherlands Meteorological Inst
 
 Manouk Geurts is pursuing her PhD at Wageningen University. Her research, supervised by Prof. Folkert Boersma and Dr. Chiel van Heerwaarden, focuses on enhancing fire emission characterization. By combining satellite observations by TROPOMI, VIIRS, and EarthCARE with high-resolution modelling in MicroHH, she will investigate plume injection height, chemical transformations in fire plumes, and emissions’ magnitude of notable fire events. This way her work aims to reduce uncertainties in estimates of wildfire emissions and improve understanding of atmospheric impacts of wildfires. 
 
+<figure>
+<img src="photos/david.jpg" width="200">
+</figure>
+
+David Verbruggen is pursuing his PhD at the Vrije Universiteit Amsterdam. His research, supervised by Dr. Nick Schutgens, focusses on investigating the impacts of fire on urban air quality. By combining satellite data from SPEXone, EarthCARE and TROPOMI, he will compare fire emission inventories (GFED5, GFAS1.4) to top-down estimates and set up a data assimilation system to improve LOTOS-EUROS air quality model results. Using this DA system, he will assess the relative importance of fire emissions on urban air quality compared to local anthropogenic pollution
+
+<figure>
+<img src="photos/nele.jpg" width="200">
+</figure>
+
+Nele Gaertner is pursuing her PhD at the VU in Amsterdam and her primary affiliation is with SRON (Space Research Institute of the Netherlands). Her research, supervised by Otto Hasekamp and Nick Schutgens, focuses on the climate effect of increased aerosol burdens from wildfires in future climate projections. Her aim is to first constrain biomass burning emission parameters in the ECHAM-HAM model with the SPEXone and EarthCARE measurements to reduce uncertainty before looking into future climate projections.
+
 ## Staff
 
 <figure>
