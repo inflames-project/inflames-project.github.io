@@ -35,7 +35,7 @@ Manouk Geurts is pursuing her PhD at Wageningen University. Her research, superv
 David Verbruggen is pursuing his PhD at the Vrije Universiteit Amsterdam. His research, supervised by Dr. Nick Schutgens, focusses on investigating the impacts of fire on urban air quality. By combining satellite data from SPEXone, EarthCARE and TROPOMI, he will compare fire emission inventories (GFED5, GFAS1.4) to top-down estimates and set up a data assimilation system to improve LOTOS-EUROS air quality model results. Using this DA system, he will assess the relative importance of fire emissions on urban air quality compared to local anthropogenic pollution
 
 <figure>
-<img src="photos/nele.jpg" width="200">
+<img src="photos/nele.jpg" width="300">
 </figure>
 
 Nele Gaertner is pursuing her PhD at the VU in Amsterdam and her primary affiliation is with SRON (Space Research Institute of the Netherlands). Her research, supervised by Otto Hasekamp and Nick Schutgens, focuses on the climate effect of increased aerosol burdens from wildfires in future climate projections. Her aim is to first constrain biomass burning emission parameters in the ECHAM-HAM model with the SPEXone and EarthCARE measurements to reduce uncertainty before looking into future climate projections.
