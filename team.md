@@ -40,6 +40,12 @@ David Verbruggen is pursuing his PhD at the Vrije Universiteit Amsterdam. His re
 
 Nele Gaertner is pursuing her PhD at the VU in Amsterdam and her primary affiliation is with SRON (Space Research Institute of the Netherlands). Her research, supervised by Otto Hasekamp and Nick Schutgens, focuses on the climate effect of increased aerosol burdens from wildfires in future climate projections. Her aim is to first constrain biomass burning emission parameters in the ECHAM-HAM model with the SPEXone and EarthCARE measurements to reduce uncertainty before looking into future climate projections.
 
+<figure>
+<img src="photos/tawanda.jpg" width="200">
+</figure>
+
+Tawanda Muhamba is pursuing his PhD at ITC, University of Twente. His research, supervised by Dr. Anton Vrieling and Dr. Marloes Penning de Vries focuses on satellite-based modelling of human influences on wildfire dynamics across Africa. By combining satellite-derived active fire, vegetation, and emission data (from VIIRS, Sentinel, and TROPOMI) with spatial indicators of human infrastructure and land use, he will quantify human drivers of fire regimes to improve process-based fire models. Using these models, he aims to disentangle anthropogenic impacts from climate variability on fire activity. Previously he studied Geographical Information Science and Earth Observation, as well as Integrated Water Resources Management, at the University of Zimbabwe.
+
 ## Staff
 
 <figure>
